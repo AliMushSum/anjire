@@ -58,7 +58,7 @@ class HomePage extends StatelessWidget {
                     horizontal: 10,
                   ),
                   child: Text(
-                    "Categories",
+                    "Library",
                     style: TextStyle(
                       fontSize: 23,
                       fontWeight: FontWeight.bold,
