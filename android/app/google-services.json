@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654452904503",
+    "project_id": "anjire-b4e12",
+    "storage_bucket": "anjire-b4e12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654452904503:android:a1a2b8765b1ed1cf3965b2",
+        "android_client_info": {
+          "package_name": "com.example.anjire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGYjHd3wFkP7CKPsGhRgyTb_YriQbWBQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
